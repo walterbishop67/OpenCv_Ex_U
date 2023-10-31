@@ -3,5 +3,14 @@
 <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/tree/main/Section_1">Numpy and Image Basics</a></p>
 <h2>Section2</h2>
 <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/tree/main/Section_1">Image Basics with OpenCV</a></p>
-<h2>Section3</h2>
-<p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/tree/main/Section_1">Image Processing</a></p>
+<h2>Image Processing</h2>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_1.ipynb">Image_Processing_1</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_2.ipynb">Image_Processing_2</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_3.ipynb">Image_Processing_3</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_4.ipynb">Image_Processing_4</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_5.ipynb">Image_Processing_5</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_6.ipynb">Image_Processing_6</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_7.ipynb">Image_Processing_7</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_8.ipynb">Image_Processing_8</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/image_processing_assesment.ipynb">Image_Processing_Assessment</a></p>
+
