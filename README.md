@@ -1,8 +1,8 @@
 # >OpenCV
-<h2>Section1</h2>
+<h2>Numpy and Image Basics</h2>
 <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/tree/main/Section_1">Numpy and Image Basics</a></p>
-<h2>Section2</h2>
-<p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/tree/main/Section_1">Image Basics with OpenCV</a></p>
+<h2>Image Basics with OpenCV</h2>
+<p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_2/OpenCV_Assessment.ipynb">OpenCV_Assessment</a></p>
 <h2>Image Processing</h2>
   <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_1.ipynb">Image_Processing_1</a></p>
   <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_2.ipynb">Image_Processing_2</a></p>
