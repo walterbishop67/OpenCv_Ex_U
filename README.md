@@ -13,4 +13,8 @@
   <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_7.ipynb">Image_Processing_7</a></p>
   <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/Image_processing_8.ipynb">Image_Processing_8</a></p>
   <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_3/image_processing_assesment.ipynb">Image_Processing_Assessment</a></p>
-
+<h2>Video Basics with Python and OpenCV</h2>
+   <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_4/WriteVideo/WriteVideo.py">Write_Video</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_4/ShowExistingVideo/ShowiExistingVideo.py">Show_Existing_Video</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_4/DrawingOnLiveCamera/DrawingOnLiveCamera.py">Drawing_On_Live_Camera</a></p>
+  <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_4/Assessment/Assessment.py">Assessment</a></p>
