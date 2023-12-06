@@ -23,3 +23,8 @@
    <h3>--Corner Detection</h3>
      <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/CornerDetection/corrnerHarris.ipynb">Corner_Harris</a></p>
      <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/CornerDetection/Shi-Tomasi.ipynb">Shi-Tomasi</a></p>
+      <p>----------</p>
+    <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/EdgeDetection/Edge_Detection.ipynb">Edge_Detection</a></p>  
+    <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/GridDetection/GridDetection.ipynb">GridDetection</a></p>
+    <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/ContourDetection/ContourDetection.ipynb">ContourDetection</a></p>  
+    <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/FeatureMatching/FeatureMatching.ipynb">FeatureMatching</a></p>
