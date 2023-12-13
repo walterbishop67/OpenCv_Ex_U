@@ -28,3 +28,7 @@
     <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/GridDetection/GridDetection.ipynb">GridDetection</a></p>
     <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/ContourDetection/ContourDetection.ipynb">ContourDetection</a></p>  
     <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/FeatureMatching/FeatureMatching.ipynb">FeatureMatching</a></p>
+<h3>--Watershed</h3>
+    <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/WatershedAlgorithm/WatershedModel.ipynb">Watershed_Algorithm</a></p>  
+    <p>&emsp;-> <a href="https://github.com/walterbishop67/OpenCv_Ex_U/blob/main/Section_5/WatershedAlgorithm/CustomSeedsWithWatershedAlgorithm.ipynb">CustomSeedsWithWatershedAlgorithm</a></p>
+     <p>----------</p>
